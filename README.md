@@ -2,7 +2,7 @@
 ### Project description: 
 
 ### Development platform:
-- macOS Catalina Version 10.15.1 
+- macOS Catalina Version 10.15.3 
 - Unity Version: 2019.1.14f1
 - Visual Studio Code Version: 1.30.2
 - Scripting Runtime Version: .NET 4.x Equivalent
