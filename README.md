@@ -16,6 +16,7 @@ Oculus Rift
 ### Necessary setup/execution steps: 
 
 ### Third party material:
+<li>Globe https://assetstore.unity.com/packages/3d/props/interior/school-globe-152072</li>
 
 ### Project state: 
 10 %
