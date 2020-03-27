@@ -23,7 +23,7 @@ Oculus Rift
 <li>Globe https://assetstore.unity.com/packages/3d/props/interior/school-globe-152072</li>
 
 ### Project state: 
-10 %
+20 %
 
 Link to Planner: https://tasks.office.com/htl-salzburg.ac.at/Home/PlanViews/dpPkrmPPyUG1WAz11AoOIpYABqT0?Type=PlanLink&Channel=Link&CreatedTime=637209390343130000
 
