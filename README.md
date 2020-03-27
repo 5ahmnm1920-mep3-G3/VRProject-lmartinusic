@@ -18,7 +18,7 @@ Oculus Rift
 ### Third party material:
 
 ### Project state: 
-0 %
+10 %
 
 ### Limitations: 
 none
