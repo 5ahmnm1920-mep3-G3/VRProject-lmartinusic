@@ -20,6 +20,8 @@ Oculus Rift
 ### Project state: 
 10 %
 
+Link to Planner: https://tasks.office.com/htl-salzburg.ac.at/Home/PlanViews/dpPkrmPPyUG1WAz11AoOIpYABqT0?Type=PlanLink&Channel=Link&CreatedTime=637209390343130000
+
 ### Limitations: 
 none
 
