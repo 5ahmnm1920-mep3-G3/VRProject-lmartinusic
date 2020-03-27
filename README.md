@@ -12,6 +12,10 @@ You have to collect all the toys hidden in the scene and put it in a basket in t
 Oculus Rift
 
 ### Visuals:
+* Intermediate result 
+<div>
+<img src="screenshot.jpg" width="300">
+</div>
 
 ### Necessary setup/execution steps: 
 
