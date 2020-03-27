@@ -1,6 +1,6 @@
 # VRProject-lmartinusic
 ### Project description: 
-You have to collect all the toys hidden in the scene and put it in a basket in the scene. Collect all the toys and win the game!
+You have to collect all the stuff thats given and hidden in the scene and put it in a basket in the scene. Collect all the stuff and win the game!
 ### Development platform:
 - macOS Catalina Version 10.15.3 
 - Unity Version: 2019.1.14f1
