@@ -14,7 +14,7 @@ Oculus Rift
 ### Visuals:
 * Intermediate result 
 <div>
-<img src="screenshot.jpg" width="300">
+<img src="Screenshots/screenshot.jpg" width="300">
 </div>
 
 ### Necessary setup/execution steps: 
