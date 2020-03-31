@@ -21,6 +21,7 @@ Oculus Rift
 
 ### Third party material:
 <li>Globe https://assetstore.unity.com/packages/3d/props/interior/school-globe-152072</li>
+<li>Room https://free3d.com/3d-model/kids-room-interior-73776.html </li>
 
 ### Project state: 
 20 %
